@@ -1,0 +1,196 @@
+{
+  "muscles": 
+  [
+   {"title": "Abductor digiti minimi",
+    "text": "je to sval"},
+    
+  {"title": "Abductor pollicis brevis",    
+    "text": "je to tiez sval"},
+
+  {"title": "Abductor pollicis longus",    
+    "text": "dalsi sval"},
+
+  {"title": "Adductor pollicis",     
+    "text": "o tomto svale by sa toho dalo strasne vela povedat \n\nproblemom ale ostava ze ja vobec nic neviem o svaloch takze dost smola"},
+
+  {"title": "Anconeus",    
+    "text": "tento sval sa ajtak asi nepouzije"},
+
+  {"title": "Biceps brachii long head",
+    "text": "urcite velmi zaujimave"},
+
+  {"title": "Biceps brachii short head",    
+    "text": "da sa toto vobec nazvat produktivnou cinnostou ?"},
+
+  {"title": "Bicipital aponeurosis",    
+    "text": "zacal som pouzivat ukoncovacie znamienka to je super."},
+
+  {"title": "Brachialis",   
+    "text": "tento sval znie ako dinosaurus brachiosaurus"},
+
+  {"title": "Brachioradialis",   
+    "text": "tento zas ako nejaky vacsi brat toho pred tym"},
+
+  {"title": "Coracobrachialis", 
+    "text": "well uz som prestal pouzivat ukoncovacie znamienka"},
+
+  {"title": "Deltoid anterior head",  
+    "text": "deltoid znie velmi znamo"},
+
+  {"title": "Deltoid middle head",  
+    "text": "kto by bol povedal ze v ruke je tolko svalov ..."},
+
+  {"title": "Deltoid posterior head",  
+    "text": "nie su deltoidy aj na nohach ?"},
+
+  {"title": "Deltoid posterior head",   
+    "text": "toto je 4. delroid bez srandy."},
+
+  {"title": "Dorsal intereosseous 3rd", 
+    "text": "treti svojho mena"},
+
+  {"title": "Dorsal interosseous 1st",  
+    "text": "prvy svojho mena"},
+
+  {"title": "Dorsal interosseous 2nd", 
+    "text": "o tomto som raz cital v nejakom magazine, ale nie srandujem jasne ze necital "},
+
+  {"title": "Dorsal interosseous 4th",  
+    "text": "fakt by som necakal ze v ruke mozu mat dva svaly 4 krat to iste meno :D "},
+
+  {"title": "Extensor carpi radialis brevis",  
+    "text": "tenot daco natahuje"},
+
+  {"title": "Extensor carpi radialis longus",   
+    "text": "tento daco natahuje dlho"},
+
+  {"title": "Extensor carpi ulnaris",  
+    "text": "neviem co je ulbaris"},
+
+  {"title": "Extensor digiti minimi", 
+    "text": "natahuje nieco minimalne"},
+
+  {"title": "Extensor digitorum", 
+    "text": "kolko svalov v ruke daco natahuje pre boha"},
+
+  {"title": "Extensor indicis",   
+    "text": "to si zo mna ani nerobte srandu uz"},
+
+  {"title": "Extensor pollicis brevis",  
+    "text": "dalsi natahovac"},
+
+  {"title": "Extensor pollicis longus", 
+    "text": "dalsi dlhy natahovac"},
+
+  {"title": "External intercostal",  
+    "text": "toto je pravdepodobne velmi detinske spravanie .. ale daco sa s tym urobit musi nie ?"},
+
+  {"title": "Flexor carpi radialis",  
+    "text": "jediny dovod"},
+
+  {"title": "Flexor Carpi ulnaris",  
+    "text": "preco vobec robim toto"},
+
+  {"title": "Flexor digiti minimi brevis",  
+    "text": "je aby som odtestoval"},
+
+  {"title": "Flexor digitorum profundus",  
+    "text": "ci vobec bude mozne robit tieto texty takto"},
+
+  {"title": "Flexor digitorum superficialis",  
+    "text": "naozaj by mi stacilo spravit jeden sval takto"},
+
+  {"title": "Flexor pollicis brevis",  
+    "text": "pre ucely testovania"},
+
+  {"title": "Flexor pollicis longus",  
+    "text": "ale nieee ja musim spravit vsetky"},
+
+  {"title": "Infraspinatus",   
+    "text": "ak to nepojde buem plakat"},
+
+  {"title": "Internal intercostal", 
+    "text": "toto \nby \nmalo \nbyt \nvsetko \nv \nnovom \nriadku"},
+
+  {"title": "Lumbrical 1st",   
+    "text": "boze preco som precital lubrical :D "},
+
+  {"title": "Lumbrical 2nd",  
+    "text": "well uz to neodvidim .. lubrical druhy"},
+
+  {"title": "Lumbrical 3rd",   
+    "text": "a co vlastne lubrikuju "},
+
+  {"title": "Lumbrical 4th",   
+    "text": "kolko svalov v ruke najdeme s rovnakym menom 4 krat ? "},
+
+  {"title": "Opponens digiti minimi",  
+    "text": "tento dakomu oponoval ale len kus"},
+
+  {"title": "Opponens pollicis",  
+    "text": "politicky oponent ci co ?"},
+
+  {"title": "Palmar interosseous 1st",   
+    "text": "toto bude daco na ruke"},
+
+  {"title": "Palmar interosseous 2nd",  
+    "text": "och toto je zas jeden z tych co bude mat 4 rovnake mena co ?"},
+
+  {"title": "Palmar interosseous 3rd",  
+    "text": "tak a je to tu ... \ntreti"},
+
+  {"title": "Palmaris brevis",   
+    "text": "wtf oni boli len 3 a nie 4"},
+
+  {"title": "Palmaris longus",   
+    "text": "dlhy palmovy list"},
+
+  {"title": "Pectoralis major", 
+    "text": "preco som si myslel ze pectoralis su tehlicky ?"},
+
+  {"title": "Pectoralis miinor",  
+    "text": "prichadzame do ciela"},
+
+  {"title": "Pronator quadratus",  
+    "text": "uz citim koniec"},
+
+  {"title": "Pronator teres",
+    "text": "ja ani neviem kolko svalov je v ruke a ani kolko som uz napisal"},
+
+  {"title": "Serratus anterior",  
+    "text": "okej asi viem v ruke by malo byt 64 svalov ... minimalne podla tohto modelu ... viem to len preto ze som ich vytahoval z kodu ... a spravil som to kodom ako rozumny clovek nie rucne :D co je tiez pozitivum"},
+
+  {"title": "Serratus posterior superior",  
+    "text": "Sirius ?!"},
+
+  {"title": "Subclavius",  
+    "text": "sval pod pazurom hmmm ?"},
+
+  {"title": "Subcostal", 
+    "text": "naozaj ich uz nemoze byt tak vela nie ?"},
+
+  {"title": "Subscapularis",  
+    "text": "nie je skapula daco v hlave ?"},
+
+  {"title": "Supinator",
+    "text": "tymto sa jedavaju polievky ? "},
+
+  {"title": "Supraspinatus",  
+    "text": "SUPERULTRAMEGA spinosaurus"},
+
+  {"title": "Teres major",    
+    "text": "traja bakalary to je jasne"},
+
+  {"title": "Triceps", 
+    "text": "aaaha ... a kde je biceps"},
+
+  {"title": "Triceps lateral head",  
+    "text": "och nie ich je viac"},
+       
+  {"title": "Triceps long head",  
+    "text": "je fakt vtipne ze poradie tychto textov bude uplne nahodne a nikomu kto necita tento dokument nic nebude davat zmysel"},     
+    
+  {"title": "Triceps tendon",   
+    "text": "tendon je nieco ako slacha nie ?"}
+  ]
+}
