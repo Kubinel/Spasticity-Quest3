@@ -7,3 +7,6 @@
 /Spasticity-Quest3.sln
 /Temp
 /UserSettings
+.vs/
+*.csproj
+*.sln
