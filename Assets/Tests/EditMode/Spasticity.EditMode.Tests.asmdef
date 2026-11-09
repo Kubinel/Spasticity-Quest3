@@ -1,0 +1,6 @@
+{
+    "name": "Spasticity.EditMode.Tests",
+    "references": ["Spasticity.Quiz", "Spasticity.Runtime"],
+    "includePlatforms": ["Editor"],
+    "optionalUnityReferences": ["TestAssemblies"]
+}

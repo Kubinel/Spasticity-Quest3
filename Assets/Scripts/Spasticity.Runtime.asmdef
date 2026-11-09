@@ -1,0 +1,11 @@
+{
+    "name": "Spasticity.Runtime",
+    "references": [
+        "Spasticity.Quiz",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.XR.CoreUtils",
+        "Unity.XR.Interaction.Toolkit"
+    ]
+}
